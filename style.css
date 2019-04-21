@@ -154,7 +154,10 @@ a:active {
   color: yellow;
   background-color: transparent;
 
+}
 
+a:visited {
+  color: orangered;
 }
 
 
