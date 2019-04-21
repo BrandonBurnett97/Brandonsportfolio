@@ -136,7 +136,7 @@
 
 
  a:link {
-  color: orange; 
+  color: gray; 
   background-color: transparent; 
   text-decoration: none;
 
@@ -157,7 +157,7 @@ a:active {
 }
 
 a:visited {
-  color: orangered;
+  color: gray;
 }
 
 
