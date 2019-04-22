@@ -13,14 +13,14 @@
 }
    
 .button {
-  background-color: orangered;
+  background-color: teal;
   border: none;
   color: white;
-  padding: 12px 25px;
+  padding: 8px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 15px;
+  font-size: 13px;
   margin: 4px 2px;
   cursor: pointer;   
    
