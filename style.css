@@ -575,18 +575,19 @@ nav a:hover::before{
 
   50% {
          background-color: #ffeb99; 
+     } 
+
+  60% {
+         background-color: #b3ffff; 
   }
 
- 70% {
+ 80% {
          background-color: #DAA520; 
-    }
-
- 90% {
-         background-color: #290e05 ; 
+ 
   }
     
     100%{
-      background-color:#b3ffff; 
+      background-color:#290e05; 
 
     }
 
